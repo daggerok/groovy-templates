@@ -1,4 +1,4 @@
-groovy-templates [![build](https://travis-ci.org/daggerok/groovy-templates.svg?branch=master)](https://travis-ci.org/daggerok/groovy-templates) [![Build Status](https://drone.io/github.com/daggerok/groovy-templates/status.png)](https://drone.io/github.com/daggerok/groovy-templates/latest)
+groovy-templates [![build](https://travis-ci.org/daggerok/groovy-templates.svg?branch=master)](https://travis-ci.org/daggerok/groovy-templates)
 ================
 
 ```sh
@@ -11,4 +11,3 @@ links
 - [spring.io](https://spring.io)
 - [groovy template engine](http://groovy-lang.org/templating.html)
 - [embedded mongo](https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo)
-
